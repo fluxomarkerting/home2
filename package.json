@@ -1,0 +1,22 @@
+{
+  "name": "site-institucional-premium",
+  "version": "1.0.0",
+  "description": "Site institucional premium - HTML5, CSS3 e JavaScript puro",
+  "type": "module",
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "echo 'Static site - no build step required'",
+    "start": "npx serve ."
+  },
+  "keywords": [
+    "site",
+    "institucional",
+    "premium",
+    "seo",
+    "html5",
+    "css3",
+    "javascript"
+  ],
+  "author": "{EMPRESA}",
+  "license": "MIT"
+}
